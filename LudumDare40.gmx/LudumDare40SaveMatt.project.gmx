@@ -19,6 +19,8 @@
     <sprite>sprites\Door_spr</sprite>
     <sprite>sprites\BrokenPiece_spr</sprite>
     <sprite>sprites\Castle_spr</sprite>
+    <sprite>sprites\SpaceBar_spr</sprite>
+    <sprite>sprites\Void</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\Stone_Background</background>
@@ -43,10 +45,12 @@
     <object>objects\BrokenPiece_obj</object>
     <object>objects\EndGame_obj</object>
     <object>objects\Win_obj</object>
+    <object>objects\SpaceBarInfo_obj</object>
+    <object>objects\TriggerSpaceInfo_obj</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\Level1</room>
     <room>rooms\Tuto</room>
+    <room>rooms\Level1</room>
     <room>rooms\Level2</room>
     <room>rooms\Win</room>
     <room>rooms\Game_OverRoom</room>
