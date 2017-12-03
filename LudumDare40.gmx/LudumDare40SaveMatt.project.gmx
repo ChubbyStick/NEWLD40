@@ -47,7 +47,6 @@
     <object>objects\Win_obj</object>
     <object>objects\SpaceBarInfo_obj</object>
     <object>objects\TriggerSpaceInfo_obj</object>
-    <object>objects\HUD_obj</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Tuto</room>
